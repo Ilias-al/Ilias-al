@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ilias-al
+- 👋 Hi, I’m Ilias
 - 👀 I’m interested by nothing
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate with nobody
+- 💞️ I’m looking to collaborate with myself
 - 📫 How to reach me : turn left 2 times
 
 <!---
